@@ -1,0 +1,10 @@
+data/
+__pycache__/
+Results_till_26th_Oct/
+*.pkl
+faster_main.py
+flipping.py
+clean_main.py
+small_model.py
+*ip*
+new_ip
