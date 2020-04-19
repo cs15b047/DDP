@@ -1,0 +1,11 @@
+data/
+__pycache__/
+*.pkl
+*.png
+plot.py
+small_model.py
+main.py
+default_ip
+input
+use_reg_input*
+
