@@ -1,0 +1,12 @@
+CIFAR10/
+MNIST/
+data/
+GB/
+__pycache__/
+flipping.py
+clean_main.py
+faster_main.py
+main.py
+small_model.py
+input
+input_CIFAR10
